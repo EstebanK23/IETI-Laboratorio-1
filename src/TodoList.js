@@ -4,8 +4,8 @@ import {Todo} from './Todo'
 
 export class TodoList extends React.Component{
     render(){
-        const numbers = this.props.numbers;
-        const listItems = numbers.map((number) => 
+        const elements = this.props.elements;
+        const listItems = elements.map((number) => 
             <Todo text={number.text} priority={number.priority} dueDate={number.dueDate} />   
         );
     return (

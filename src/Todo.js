@@ -14,7 +14,7 @@ export class Todo extends React.Component {
 
     render() {
         return (  
-            <h2> {this.props.text} {this.props.priority} {this.props.dueDate.toString()} </h2>        
+            <h2> {this.props.text} {this.props.priority} {this.props.dueDate.toString()} </h2> 
         );
 
     }
