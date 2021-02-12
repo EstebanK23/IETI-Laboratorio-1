@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# Guillermo Esteban Bernal Bonilla
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# IETI - Laboratorio 1
 
-## Available Scripts
+# React JS Intro
 
-In the project directory, you can run:
+## Uso del proyecto
 
-### `npm start`
+Ingresar a un cmd y ejecutar los siguientes comandos
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**1. gitclone https://github.com/EstebanK23/IETI-Laboratorio-1**
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+**2. cd todo-app**
 
-### `npm test`
+**3. npm install**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**4. npm start**
 
-### `npm run build`
+## Part 1: Create a basic React application and understand React basics
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Se muestran los arreglos y la evidencia del tutorial realizado.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://user-images.githubusercontent.com/54051399/107726160-11001d80-6cb6-11eb-882f-ab7b185578b6.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![WhatsApp Image 2021-02-11 at 9 46 35 PM](https://user-images.githubusercontent.com/54051399/107725523-74894b80-6cb4-11eb-8f9f-5ea52d014160.jpeg)
 
-### `npm run eject`
+## Part 2: Create React Components for the TODO App
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Se muestra la implementación para el archivo TodoList.js y su ejecución.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![image](https://user-images.githubusercontent.com/54051399/107726193-2c6b2880-6cb6-11eb-8aab-48d48afd6dc6.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![WhatsApp Image 2021-02-11 at 7 47 45 PM](https://user-images.githubusercontent.com/54051399/107725528-75ba7880-6cb4-11eb-9c46-414060a3da6c.jpeg)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Part 3: Interacting with React Components
 
-## Learn More
+Se muestra la implementación para el archivo TodoApp.js y su ejecución.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![image](https://user-images.githubusercontent.com/54051399/107726218-40af2580-6cb6-11eb-8714-b491e59063d3.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![WhatsApp Image 2021-02-11 at 8 55 36 PM](https://user-images.githubusercontent.com/54051399/107725527-75ba7880-6cb4-11eb-929e-5b5dec636296.jpeg)
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![WhatsApp Image 2021-02-11 at 8 56 34 PM](https://user-images.githubusercontent.com/54051399/107725525-7521e200-6cb4-11eb-89c2-e3827bbf9e19.jpeg)
